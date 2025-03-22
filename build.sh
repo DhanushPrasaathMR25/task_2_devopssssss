@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-IMAGE_NAME="sujith2606/demo"
+IMAGE_NAME="dhanushprasaathmr07/demo"
 TAG="latest"
 
 # Build Docker image
